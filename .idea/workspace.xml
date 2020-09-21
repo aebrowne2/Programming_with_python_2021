@@ -14,6 +14,7 @@
       </list>
     </option>
   </component>
+<<<<<<< Updated upstream
   <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
     <envs>
       <env key="FLASK_APP" value="app" />
@@ -36,6 +37,11 @@
       </set>
     </option>
   </component>
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+>>>>>>> Stashed changes
   <component name="JupyterTrust" id="08b16f96-b3c7-4916-b463-16ffd0361321" />
   <component name="ProjectId" id="1hduVufQX06PXJznLEAoD3jwpko" />
   <component name="ProjectViewState">
@@ -45,13 +51,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< Updated upstream
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Alberto Bronwe" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Part1-Basics" />
+>>>>>>> Stashed changes
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+<<<<<<< Updated upstream
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -62,6 +73,16 @@
   </component>
   <component name="RunManager" selected="Python.My_city (1)">
     <configuration name="My_city (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aebro\Documents\GitHub\Programming_with_python_2021\Part1-Basics" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.My_city">
+    <configuration name="My_city" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> Stashed changes
       <module name="Programming_with_python_2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,12 +90,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< Updated upstream
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alberto Bronwe" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alberto_Browne" />
+>>>>>>> Stashed changes
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< Updated upstream
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Alberto Bronwe/My_city.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Alberto_Browne/My_city.py" />
+>>>>>>> Stashed changes
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +112,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< Updated upstream
     <configuration name="My_city" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="My_script" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> Stashed changes
       <module name="Programming_with_python_2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,12 +124,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< Updated upstream
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alberto_Browne" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part1-Basics" />
+>>>>>>> Stashed changes
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< Updated upstream
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Alberto_Browne/My_city.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part1-Basics/My_script.py" />
+>>>>>>> Stashed changes
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +168,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< Updated upstream
     <configuration name="d_variables (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="c_own_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> Stashed changes
       <module name="Programming_with_python_2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,12 +180,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< Updated upstream
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alberto Bronwe" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part1-Basics" />
+>>>>>>> Stashed changes
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< Updated upstream
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Alberto Bronwe/d_variables.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part1-Basics/c_own_code.py" />
+>>>>>>> Stashed changes
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +226,19 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< Updated upstream
         <item itemvalue="Python.My_city (1)" />
         <item itemvalue="Python.d_variables (1)" />
         <item itemvalue="Python.d_variables" />
         <item itemvalue="Python.My_city" />
         <item itemvalue="Python.My_script_2" />
+=======
+        <item itemvalue="Python.My_city" />
+        <item itemvalue="Python.My_script_2" />
+        <item itemvalue="Python.My_script" />
+        <item itemvalue="Python.d_variables" />
+        <item itemvalue="Python.c_own_code" />
+>>>>>>> Stashed changes
       </list>
     </recent_temporary>
   </component>
@@ -192,12 +253,16 @@
       <workItem from="1600353319207" duration="6048000" />
       <workItem from="1600590223401" duration="1253000" />
       <workItem from="1600609358850" duration="12000" />
+<<<<<<< Updated upstream
       <workItem from="1600609388076" duration="630000" />
       <workItem from="1600610061517" duration="63000" />
       <workItem from="1600610125469" duration="125000" />
       <workItem from="1600610475649" duration="1791000" />
       <workItem from="1600614321842" duration="1623000" />
       <workItem from="1600693879972" duration="2260000" />
+=======
+      <workItem from="1600609388076" duration="525000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
@@ -209,6 +274,7 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1600355093204" />
+<<<<<<< Updated upstream
     <state x="510" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600610196670">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -265,6 +331,38 @@
     <SUITE FILE_PATH="coverage/Programming_with_python_2021$d_variables.coverage" NAME="d_variables Coverage Results" MODIFIED="1600614552320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part1-Basics" />
     <SUITE FILE_PATH="coverage/Programming_with_python_2021$My_city.coverage" NAME="My_city Coverage Results" MODIFIED="1600613862691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alberto_Browne" />
     <SUITE FILE_PATH="coverage/Programming_with_python_2021$My_script_2.coverage" NAME="My_script_2 Coverage Results" MODIFIED="1600614220225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part1-Basics" />
+=======
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1600355280194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600355280194" />
+    <state width="1342" height="195" key="GridCell.Tab.0.bottom" timestamp="1600591476815">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600591476815" />
+    <state width="1342" height="195" key="GridCell.Tab.0.center" timestamp="1600591476815">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600591476815" />
+    <state width="1342" height="195" key="GridCell.Tab.0.left" timestamp="1600591476815">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600591476815" />
+    <state width="1342" height="195" key="GridCell.Tab.0.right" timestamp="1600591476815">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600591476815" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1600355308861">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600355308861" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Programming_with_python_2021$My_script.coverage" NAME="My_script Coverage Results" MODIFIED="1600356787550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part1-Basics" />
+    <SUITE FILE_PATH="coverage/Programming_with_python_2021$d_variables.coverage" NAME="d_variables Coverage Results" MODIFIED="1600356540899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part1-Basics" />
+    <SUITE FILE_PATH="coverage/Programming_with_python_2021$My_city.coverage" NAME="My_city Coverage Results" MODIFIED="1600591306506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Alberto_Browne" />
+    <SUITE FILE_PATH="coverage/Programming_with_python_2021$My_script_2.coverage" NAME="My_script_2 Coverage Results" MODIFIED="1600357450260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part1-Basics" />
+>>>>>>> Stashed changes
     <SUITE FILE_PATH="coverage/Programming_with_python_2021$c_own_code.coverage" NAME="c_own_code Coverage Results" MODIFIED="1600355432463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part1-Basics" />
     <SUITE FILE_PATH="coverage/Programming_with_python_2021$a_header.coverage" NAME="a_header Coverage Results" MODIFIED="1600355338710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part1-Basics" />
   </component>
